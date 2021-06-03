@@ -35,7 +35,7 @@ function App() {
   }
   return (
     <div className="App">
-     <h1>Hello </h1>
+     <h1> Welcome to ls-pro Todo </h1>
      <form> 
       
         <FormControl> 
